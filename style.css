@@ -1,0 +1,29 @@
+
+.navbar {
+    background-color: green;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+    color: white;
+}
+.nav-item.active {
+    box-shadow: 0px -5px white inset;
+    bottom:-2;
+}
+
+.nav-link:hover, .nav-link:active {
+    box-shadow: 0px -5px white inset;
+}
+
+.carousel-caption {
+    opacity:0.6;
+}
